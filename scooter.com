@@ -1,7 +1,7 @@
     { 
       
       "show": true,
-      "CheckR": true,
+      "CheckR": false,
       "com": true,
       "published": true,
       
@@ -66,7 +66,7 @@
       "more": [ 
         [
           "false",
-          "https://www.cimoandroid.com/com/lulubox_tips.png",
+          "https://www..com/com/lulubox_tips.png",
           "com.facebook.lite",
           "lite"
         ]
