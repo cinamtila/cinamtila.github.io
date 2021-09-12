@@ -8,8 +8,8 @@
       "version": 1,
       "newAppLink": "",
       
-      "videos": "https://d2yx87if4hlknw.cloudfront.net/out/v1/44a3411ee83c4e94b28a36e400cd20c5/index.m3u8",
-      "video": "https://drive.google.com/uc?id=16v9O81rSv4NzedIWd_pKLbc0Uqq81BSg",
+      "video": "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
+      "videos": "https://drive.google.com/uc?id=16v9O81rSv4NzedIWd_pKLbc0Uqq81BSg",
       "privacy": "https://cinamtila.blogspot.com/p/privacy.html",
       
       "spancount": 1,
