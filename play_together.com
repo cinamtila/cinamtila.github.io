@@ -8,7 +8,8 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
+      "videos": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
+      "video": "https://drive.google.com/uc?id=1XzxVN-kTRziO-GEagW3oBpPuBDr4ESa6",
       "privacy": "https://cinamtila.blogspot.com/p/privacy.html",
       
       "spancount": 1,
