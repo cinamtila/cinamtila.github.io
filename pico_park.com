@@ -8,8 +8,8 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
-      "videos": "https://drive.google.com/uc?id=1hUaAgWa6FTx1cc6w9CMzhUlbOpFJaCaW",
+      "videos": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+      "video": "https://drive.google.com/uc?id=1hUaAgWa6FTx1cc6w9CMzhUlbOpFJaCaW",
       "privacy": "https://cinamtila.blogspot.com/p/privacy.html",
       
       "spancount": 1,
@@ -63,10 +63,10 @@
       },
       "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-9807264092456179/2684250035",
-        "admb_openad": "ca-app-pub-9807264092456179/6224873949",
-        "admb_inters": "ca-app-pub-9807264092456179/6743748690",
-        "admb_native": "ca-app-pub-9807264092456179/9076885106"
+        "admb_banner": "ca-app-pub-3503534924917767/9352261433",
+        "admb_openad": "ca-app-pub-3503534924917767/2699223175",
+        "admb_inters": "ca-app-pub-3503534924917767/9352261433",
+        "admb_native": "ca-app-pub-3503534924917767/7668672344"
       },
       "unity": false,
       "adsunity": {
